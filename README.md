@@ -20,20 +20,6 @@ An MCP (Model Context Protocol) server that enables LLM tools like Claude Deskto
 
 ## Installation
 
-### Using UV (Recommended)
-
-```bash
-# Install directly from GitHub
-uv pip install git+https://github.com/tylerstoltz/mcp-odbc.git
-
-# Or install from a local clone
-git clone https://github.com/tylerstoltz/mcp-odbc.git
-cd mcp-odbc
-uv pip install .
-```
-
-### Development Installation
-
 ```bash
 git clone https://github.com/tylerstoltz/mcp-odbc.git
 cd mcp-odbc
